@@ -1,8 +1,8 @@
 // Data structure that will store the friends data
 var friendsArray = [
 	{
-		name: 'Scooter',
-		photo: 'http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-15.jpg',
+		name: 'Sleepy',
+		photo: 'http://en.bcdn.biz/Images/2015/9/24/f2ea3428-e726-402e-ad29-87a6bc018d70.jpg',
 		scores: [
 			'1',
 			'5',
@@ -17,8 +17,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Fluffy',
-		photo: 'https://i.ytimg.com/vi/mRf3-JkwqfU/hqdefault.jpg',
+		name: 'Chunky',
+		photo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRItRG_f2PZy3IAYDHHzYBZ7SgNz3U0Wd6ujQNa0VyT6s_CUpyJ',
 		scores: [
 			'2',
 			'4',
@@ -33,8 +33,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Spencer',
-		photo: 'http://cdn3-www.cattime.com/assets/uploads/2011/08/best-kitten-names-1.jpg',
+		name: 'Toothless',
+		photo: 'https://res.cloudinary.com/teepublic/image/private/s--WhwdvlG2--/t_Preview/b_rgb:000000,c_limit,f_jpg,h_630,q_90,w_630/v1535124105/production/designs/3063273_0.jpg',
 		scores: [
 			'4',
 			'3',
@@ -49,8 +49,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Zackariah',
-		photo: 'https://pbs.twimg.com/profile_images/562466745340817408/_nIu8KHX.jpeg',
+		name: 'Turkey',
+		photo: 'https://www-nwtf-org-files.s3.amazonaws.com/76bb-77994467-B06542.jpg?versionId=scRCDXzownS7bcq_q0OBM60JM6E5VcT_',
 		scores: [
 			'5',
 			'1',
