@@ -13,11 +13,11 @@ Please check it out here.
 Installation
 To install the application follow the instructions below:
 
+1.   git clone git@github.com:kaibili01/Friend-Finder-
+2.   friend-finder
+3.   install
+4.   Running Locally
 
-1. Item 1   git clone git@github.com:kaibili01/Friend-Finder-
-2. Item 2 friend-finder
-3. Item 3 install
-Running Locally
 To run the application locally and access it in your browser, first set the PORT environment variable to the value of your choice. An example is shown below.
 
 export PORT=3030
