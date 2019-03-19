@@ -7,14 +7,13 @@ Friend Finder application is meant to simulate a simple dating app. The applicat
 Demo
 Friend Finder is deployed to Heroku. 
 
-[heroku](https://calm-depths-81376.herokuapp.com/)
+[https://calm-depths-81376.herokuapp.com/](heroku)
 Please check it out here.
 
 Installation
 To install the application follow the instructions below:
 
 
-git clone git@github.com:angrbrd/friend-finder.git
 git clone git@github.com:kaibili01/Friend-Finder-
 cd friend-finder
 npm install
